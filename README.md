@@ -1,2 +1,2 @@
 # Week15
-Week 15: JDBC and Bean Validation
+JDBC and Bean Validation
